@@ -87,6 +87,7 @@ Also, two new endpoints are added to this namespace.
 | Endpoint                              | HTTP Verb |
 | ------------------------------------- | --------- |
 | */wp-json/jwt-auth/v1/token*          | POST      |
+| */wp-json/jwt-auth/v1/google_auth*    | POST      |
 | */wp-json/jwt-auth/v1/token/validate* | POST      |
 
 ## Usage
